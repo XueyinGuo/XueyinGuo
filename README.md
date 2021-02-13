@@ -3,3 +3,5 @@
 - 🌱 I’m currently learning Netty and HotSpot
 - 💞️ I’m looking to collaborate on nothing for now.
 - 📫 My email is guoxueyin111@gmail.com or guoxueyin@163.com
+- 🐒 My CSDN blog is https://blog.csdn.net/XueyinGuo
+- 📕 ShenZhen University
