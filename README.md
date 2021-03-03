@@ -5,3 +5,5 @@
 - 📫 My email is guoxueyin111@gmail.com or guoxueyin@163.com
 - 🐒 My CSDN blog is https://blog.csdn.net/XueyinGuo
 - 📕 ShenZhen University
+- ♥️ 源码注释本人都是用/**/，为了方便阅读，大家可以如下设置
+- ![image](https://user-images.githubusercontent.com/54173572/109785799-76a55100-7c47-11eb-8413-ca1eb43502ca.png)
