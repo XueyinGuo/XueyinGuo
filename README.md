@@ -7,5 +7,5 @@
 - 📫 My email is guoxueyin111@gmail.com or guoxueyin@163.com
 - 🐒 My CSDN blog is https://blog.csdn.net/XueyinGuo
 - 📕 ShenZhen University
-- ♥️ FYI!  My Own Thought Writed In /**/ Block，IF U POOLED, U CAN SET ↓
+- ♥️ FYI!  My Own Thought Writed In /**/ Block，IF U PULLED, U CAN SET ↓
 - ![image](https://user-images.githubusercontent.com/54173572/109785799-76a55100-7c47-11eb-8413-ca1eb43502ca.png)
