@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XueyinGuo
 - 👀 I’m interested in Java & Deep Learning
 - 🌱 I’m currently reading Netty source code.
-- 🌱 And my plan of source code reading include SpringMVC/Tomcat/SpringBoot/MyBatis, <font size="4", color="red">**But it's haven't started yet**</font>.
+- 🌱 And my plan of source code reading include SpringMVC/Tomcat/SpringBoot/MyBatis, <font size="4", color="red">But it's haven't started yet</font>.
 - 🌱 Spring project was finished on 2021-01-25. Welcome to pull.
 - 💞️ I’m looking to collaborate on nothing for now.
 - 📫 My email is guoxueyin111@gmail.com or guoxueyin@163.com
