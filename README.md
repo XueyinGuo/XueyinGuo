@@ -3,7 +3,7 @@
 - 🌱 I’m currently reading Tomcat source code and trying to build a RPC FrameWork base on Netty.
 - 🌱 And my plan of source code reading include SpringMVC/SpringBoot/MyBatis, **But it's haven't started yet**.
 - 🌱 Source Code of Spring project was finished on 2021-01-25. Welcome to pull.
-- 🌱 Tomcat Source Code Reading And Its Architecture Learning Has Been Started in 2021-5-14.
+- 🌱 Tomcat Source Code Reading And Its Architecture Learning Has Been Started on 2021-5-14.
 - 🌱 And I have been started to try to build a RPC based on Netty on 2021-5-20, 'course I realy want to kown what the hell will happen when we send a request to the server if this       server use Netty instead of Tomcat. And why the architecture between Tomcat And Netty are so different.
 - 💞️ I’m looking to collaborate on nothing for now.
 - 📫 My email is guoxueyin111@gmail.com or guoxueyin@163.com
